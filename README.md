@@ -3,7 +3,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="right">
   <strong>CN 简体中文</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/ArcesTeam/{{project-name}}/blob/main/.github/lang/en-US/README.md" title="English">EN English</a>
+  <a href="https://github.com/ArcesTeam/infra-maven/blob/main/.github/lang/en-US/README.md" title="English">EN English</a>
 </p>
 
 > **ArcesTeam 内部通用模板仓库**
@@ -116,7 +116,7 @@ rootProject.name = "template-gradle-project"
 界面右上角的 [Use this template](https://github.com/ArcesTeam/template-gradle-project/generate)
 按钮，即可基于此模板创建新的仓库。
 
-- 进行必要的项目名称替换 例: `{{project-name}}`->`your-repo-name`
+- 进行必要的项目名称替换 例: `infra-maven`->`your-repo-name`
 
 更为详细地操作流程可以参考 GitHub
 官方文档 [从模板创建仓库](https://docs.github.com/zh/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
@@ -127,7 +127,7 @@ rootProject.name = "template-gradle-project"
 gh repo create <your-repo-name> --template ArcesTeam/template-gradle-project
 ```
 
-- 进行必要的项目名称替换 例: `{{project-name}}`->`your-repo-name`
+- 进行必要的项目名称替换 例: `infra-maven`->`your-repo-name`
 
 更为详细地使用流程可以参考 GitHub CLI
 官方文档 [gh repo create](https://cli.github.com/manual/gh_repo_create)
