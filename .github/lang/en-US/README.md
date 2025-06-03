@@ -1,75 +1,68 @@
-# Project Name
+# 📦 infra-maven
 
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="right">
-  <a href="https://github.com/ArcesTeam/{{project-name}}/blob/main/.github/lang/zh-CN/README.md" title="简体中文">CN 简体中文</a> &nbsp;|&nbsp;
+  <a href="https://github.com/ArcesTeam/infra-maven/blob/main/.github/lang/zh-CN/README.md" title="简体中文">CN 简体中文</a> &nbsp;|&nbsp;
   <strong>EN English</strong>
 </p>
 
-> This README is a general template suitable for various projects. Please modify
-> and supplement it according to your actual needs.
+> **ArcesTeam Internal Common Maven Management Repository**
 
-## Project Overview
+---
 
-Briefly introduce the core features, goals, and application scenarios of the
-project.
-For example: This project aims to provide an efficient and scalable XXX
-solution, suitable for XXX scenarios.
+## 📘 Project Overview
 
-## Features
+This is a repository for managing the internal common Maven package management for ArcesTeam.
 
-- Feature one description
-- Feature two description
-- ...
-- Support for multi-platform/multi-language/plugin extension, etc.
+It provides general dependencies for builds, as well as necessary Gradle plugins and Maven plugins, among others.
 
-## Quick Start
+The repository is designed to provide a standardized Maven/Gradle build environment for various projects within ArcesTeam, ensuring that all projects utilize consistent dependencies and build tools.
 
-### Requirements
+---
 
-- Dependency 1 (e.g., Node.js >= 18, Python >= 3.10, etc.)
-- Dependency 2
-- ...
+## 🚀 Features
 
-### Installation & Run
+- **Standardized Template**: Offers a unified project structure and
+  configuration for easier team collaboration and maintenance.
 
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd <your-project-dir>
+---
 
-# Install dependencies
-<your-install-command>
+## 🧩 Project Structure
 
-# Start the project
-<your-start-command>
+```text
+infra-maven/
+├── .github/            → GitHub 相关配置
+├── plugins/            → 通用插件，如 gradle/maven 插件等
 ```
 
-### Example Usage
+---
 
-```bash
-<your-example-command>
-```
+## ⚡️ Quick Start
 
-## Documentation & Support
+### 🧱 Get Specific Plugins from Packages
 
-- [User Documentation](./docs/)
-- [FAQ](./docs/FAQ.md)
-- [Contributing Guide](./CONTRIBUTING.md)
-- [Code of Conduct](./.github/lang/en-US/CODE_OF_CONDUCT.md)
-- [Security Policy](./.github/lang/en-US/SECURITY.md)
+Not available yet.
 
-If you need help or have any questions, please contact us via Issue or
-Discussions.
+---
 
-## Contribution
+## 📄 License
 
-Community contributions are welcome!
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed processes and
-guidelines.
+This template project is licensed under the [MIT License](https://github.com/ArcesTeam/infra-docker/blob/main/LICENSE).
 
-## License
+---
 
-This project uses MIT / Apache-2.0 / GPL-3.0 or other open source licenses (
-please choose and supplement as appropriate).
+## 📣 Contact Us
 
+This project is maintained by [ArcesTeam](https://github.com/ArcesTeam), and we
+welcome suggestions for improvements or PR submissions.
+
+---
+
+## ✅ You may also:
+
+- 🔍 Check out [`infra-docker`](https://github.com/ArcesTeam/infra-docker) for
+  Docker project Packages.
+- 💬 Join our [Discussions](https://github.com/orgs/ArcesTeam/discussions) for
+  discussions and support.
+
+---

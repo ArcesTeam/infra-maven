@@ -3,7 +3,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="right">
   <strong>CN 简体中文</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/ArcesTeam/{{project-name}}/blob/main/.github/lang/en-US/SECURITY.md" title="English">EN English</a>
+  <a href="https://github.com/ArcesTeam/infra-maven/blob/main/.github/lang/en-US/SECURITY.md" title="English">EN English</a>
 </p>
 
 我们高度重视项目的安全性，并致力于为所有用户和贡献者提供安全保障。请您在发现潜在安全问题时，遵循以下政策进行报告与沟通。
@@ -16,19 +16,13 @@ Fork 或非官方分支，原则上不提供安全性补丁或响应。
 | 分支/版本         | 是否接受安全报告 |
 |---------------|----------|
 | main / master | ✅ 是      |
-| feature/*     | ⚠️ 视情况而定 |
-| others/*      | ❌ 否      |
-
-> 🚨 注意：本模板项目为通用方案，具体项目可根据实际情况调整安全响应范围。
 
 ## 🐞 报告安全问题
 
 如您发现潜在的安全漏洞或风险，请通过以下方式私下报告：
 
-- 📧 **邮件报告（推荐）**：发送邮件至 [
-  `security@example.com`](mailto:security@example.com)
 - 🔒 **GitHub 安全报告通道**
-  （如已启用）：通过 [Security Advisories](https://github.com/ArcesTeam/{{project-name}}/security/advisories)
+  （如已启用）：通过 [Security Advisories](https://github.com/ArcesTeam/infra-maven/security/advisories)
   页面提交私密报告
 
 请**勿在公开 Issue 或讨论区披露敏感漏洞信息**，以免影响用户安全。
