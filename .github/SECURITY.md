@@ -16,17 +16,11 @@ Fork 或非官方分支，原则上不提供安全性补丁或响应。
 | 分支/版本         | 是否接受安全报告 |
 |---------------|----------|
 | main / master | ✅ 是      |
-| feature/*     | ⚠️ 视情况而定 |
-| others/*      | ❌ 否      |
-
-> 🚨 注意：本模板项目为通用方案，具体项目可根据实际情况调整安全响应范围。
 
 ## 🐞 报告安全问题
 
 如您发现潜在的安全漏洞或风险，请通过以下方式私下报告：
 
-- 📧 **邮件报告（推荐）**：发送邮件至 [
-  `security@example.com`](mailto:security@example.com)
 - 🔒 **GitHub 安全报告通道**
   （如已启用）：通过 [Security Advisories](https://github.com/ArcesTeam/infra-maven/security/advisories)
   页面提交私密报告

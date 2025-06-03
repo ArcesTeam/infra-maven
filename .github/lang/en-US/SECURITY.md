@@ -20,19 +20,12 @@ personal forks, or unofficial branches.
 | Branch/Version | Accepts Security Reports |
 |----------------|--------------------------|
 | main / master  | ✅ Yes                    |
-| feature/*      | ⚠️ Case-by-case          |
-| others/*       | ❌ No                     |
-
-> 🚨 Note: This template provides a general security policy. Specific projects
-> may adjust the response scope as needed.
 
 ## 🐞 Reporting Security Issues
 
 If you discover a potential vulnerability or risk, please report it privately
 via one of the following methods:
 
-- 📧 **Email (Recommended):** Send an email to [
-  `security@example.com`](mailto:security@example.com)
 - 🔒 **GitHub Security Advisories** (if enabled): Submit a confidential report
   via
   the [Security Advisories](https://github.com/ArcesTeam/infra-maven/security/advisories)
